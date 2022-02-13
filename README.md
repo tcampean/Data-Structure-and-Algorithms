@@ -1,2 +1,11 @@
 # Data Structure and Algorithms
- Data Structure and Algorithms course
+
+Implemented various commonly used data structures
+
+**Learned**
+
+* Data Structure Implementation
+* Algorithm Analysis
+* Iterators
+* Trees
+* Hashing
