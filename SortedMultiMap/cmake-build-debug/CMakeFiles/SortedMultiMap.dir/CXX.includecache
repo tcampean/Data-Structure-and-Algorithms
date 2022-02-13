@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Tudor/Desktop/interfaces/Interfaces/SortedMultiMap/SMMIterator.h
+SortedMultiMap.h
+C:/Users/Tudor/Desktop/interfaces/Interfaces/SortedMultiMap/SortedMultiMap.h
+
+C:/Users/Tudor/Desktop/interfaces/Interfaces/SortedMultiMap/ShortTest.cpp
+assert.h
+-
+SortedMultiMap.h
+C:/Users/Tudor/Desktop/interfaces/Interfaces/SortedMultiMap/SortedMultiMap.h
+SMMIterator.h
+C:/Users/Tudor/Desktop/interfaces/Interfaces/SortedMultiMap/SMMIterator.h
+exception
+-
+vector
+-
+iostream
+-
+
+C:/Users/Tudor/Desktop/interfaces/Interfaces/SortedMultiMap/SortedMultiMap.h
+vector
+-
+utility
+-
+
